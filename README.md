@@ -19,14 +19,13 @@ pip install pygame
 ```
 
 ## Cómo jugar
-Jugador 1:
 
--Mueve la paleta hacia arriba con la tecla W.
--Mueve la paleta hacia abajo con la tecla S.
+**Jugador 1:**
+- Mueve la paleta hacia arriba con la tecla **W**.
+- Mueve la paleta hacia abajo con la tecla **S**.
 
-Jugador 2:
-
--Mueve la paleta hacia arriba con la tecla FLECHA ARRIBA.
--Mueve la paleta hacia abajo con la tecla FLECHA ABAJO.
+**Jugador 2:**
+- Mueve la paleta hacia arriba con la tecla **FLECHA ARRIBA**.
+- Mueve la paleta hacia abajo con la tecla **FLECHA ABAJO**.
 
 Para reiniciar el juego, la pelota se reiniciará automáticamente si sale de los bordes.
